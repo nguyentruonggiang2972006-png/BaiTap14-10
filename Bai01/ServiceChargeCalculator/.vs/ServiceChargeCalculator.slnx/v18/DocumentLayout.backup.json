@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtran01\\Bai03\\ServiceChargeCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C31C37D7-00C3-B71A-1E28-AB994112EF44}|ServiceChargeCalculator.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\kiemtran01\\bai03\\servicechargecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31C37D7-00C3-B71A-1E28-AB994112EF44}|ServiceChargeCalculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31C37D7-00C3-B71A-1E28-AB994112EF44}|ServiceChargeCalculator.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\kiemtran01\\bai03\\servicechargecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C31C37D7-00C3-B71A-1E28-AB994112EF44}|ServiceChargeCalculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31C37D7-00C3-B71A-1E28-AB994112EF44}|ServiceChargeCalculator.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\kiemtran01\\bai03\\servicechargecalculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31C37D7-00C3-B71A-1E28-AB994112EF44}|ServiceChargeCalculator.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtran01\\Bai03\\ServiceChargeCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtran01\\Bai03\\ServiceChargeCalculator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:47:55.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtran01\\Bai03\\ServiceChargeCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtran01\\Bai03\\ServiceChargeCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:29:28.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtran01\\Bai03\\ServiceChargeCalculator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\Kiemtran01\\Bai03\\ServiceChargeCalculator\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:35:46.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

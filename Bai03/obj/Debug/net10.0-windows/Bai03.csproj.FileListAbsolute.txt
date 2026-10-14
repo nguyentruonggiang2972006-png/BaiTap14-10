@@ -1,0 +1,17 @@
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\bin\Debug\net10.0-windows\Bai03.exe
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\bin\Debug\net10.0-windows\Bai03.deps.json
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\bin\Debug\net10.0-windows\Bai03.runtimeconfig.json
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\bin\Debug\net10.0-windows\Bai03.dll
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\bin\Debug\net10.0-windows\Bai03.pdb
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.Form1.resources
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.csproj.GenerateResource.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.AssemblyInfoInputs.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.AssemblyInfo.cs
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.csproj.CoreCompileInputs.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.dll
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\refint\Bai03.dll
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.pdb
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.genruntimeconfig.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\ref\Bai03.dll
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Baitap14-10\Bai03\obj\Debug\net10.0-windows\Bai03.csproj.Up2Date
